@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#main{
+	margin-top: 15px;
+	width: 90%;
+	background: rgb(220,220,220);
+	border-radius: 10px;
+	margin: 5px auto;
+}
+
+#title{
+	margin-top: 15px;
+	width: 90%;
+	background: rgb(220,220,220);
+	margin: 5px auto;
+}
+
+#title h1{
+	font-weight: bolder;
+	padding-top: 20px;
+}
+#title h6{
+	font-style: italic;
+}
+
+
+#img-div{
+	margin: 20px;
+	padding: 20px;
+	background-color: white;
+}
+
+#tribute-info{
+	margin: 5px auto;
+	width: 50%;
+}
+
+#conclusion{
+	font-weight: bold;
+	font-size: 27px;
+	text-align: center;
+	margin: 20px;
+}
+
+#conclusion a{
+	text-decoration: underline;
+}
